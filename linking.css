@@ -1,0 +1,48 @@
+body {
+    background: url(pre.jpg);
+    color: white;
+    background-repeat: repeat;
+    background-size: auto;
+}
+span {
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+
+}
+h3 {
+    font-family: arial;
+    color: yellow;
+}
+div {
+font-family: arial;
+color: white;
+font-weight: 200px;
+}
+ol  {
+
+    color: white;
+    font-weight: bold;
+}
+
+.project-assign {
+    color: yellow;
+    font-weight: bold;
+}
+thead {
+    color: yellow;
+    font-weight: bolder;
+}
+
+td {
+    color: white;
+    font-weight: bold;
+}
+.inside-part {
+    color: white;
+    font-family: arial;
+}
+p {
+    color: white;
+    font-family: arial;
+}
