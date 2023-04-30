@@ -1,0 +1,82 @@
+
+.signup {
+    color: Black;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 30px; 
+    margin-bottom: 0px;
+}
+
+.form {
+    font-family: Arial;
+    text-align: center;
+   box-sizing: border-box;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+  z-index: 1;
+  background: #ffffff;
+  max-width: 550px;
+  margin: 0 auto;
+  padding: 10px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.form input[type="text"],
+.form input[type="password"] {
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  outline: 0;
+  background-color: #f2f2f2;
+  width: 53%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px
+}
+
+.form [type="submit"] {
+  font-family: "Helvetica Neue", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background-color: #4CAF50;
+  width: 20%;
+  border: 0;
+  padding: 10px;
+  color: #ffffff;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+}
+
+.form [type="submit"]:hover {
+background-color: green;
+}
+
+form .registered {
+  margin: 15px 0 0;
+  color: #b3b3b3;
+  font-size: 12px;
+  font-size: 15px;
+  font-family: serif;
+}
+.form .registered a {
+  color: #4CAF50;
+  text-decoration: none;
+}
+
+.sign-page {
+  width: 680px;
+  padding: 8% 0 0;
+  margin: auto;
+  box-sizing: border-box;
+}
